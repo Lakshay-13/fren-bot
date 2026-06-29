@@ -3,55 +3,55 @@
     "type": "animated",
     "path": "emojis/animated/fren_idle.gif",
     "frames": 6,
-    "bytes": 19470
+    "bytes": 80494
   },
   "fren_run": {
     "type": "animated",
     "path": "emojis/animated/fren_run.gif",
     "frames": 8,
-    "bytes": 27291
+    "bytes": 112470
   },
   "fren_wave": {
     "type": "animated",
     "path": "emojis/animated/fren_wave.gif",
     "frames": 4,
-    "bytes": 15060
+    "bytes": 60519
   },
   "fren_jump": {
     "type": "animated",
     "path": "emojis/animated/fren_jump.gif",
     "frames": 5,
-    "bytes": 17046
+    "bytes": 71285
   },
   "fren_wait": {
     "type": "animated",
     "path": "emojis/animated/fren_wait.gif",
     "frames": 6,
-    "bytes": 20336
+    "bytes": 87808
   },
   "fren_review": {
     "type": "animated",
     "path": "emojis/animated/fren_review.gif",
     "frames": 6,
-    "bytes": 20466
+    "bytes": 82307
   },
   "fren_sad": {
     "type": "animated",
     "path": "emojis/animated/fren_sad.gif",
     "frames": 8,
-    "bytes": 27772
+    "bytes": 116280
   },
   "fren_tailwag": {
     "type": "animated",
     "path": "emojis/animated/fren_tailwag.gif",
     "frames": 6,
-    "bytes": 22489
+    "bytes": 218409
   },
   "fren_hop": {
     "type": "animated",
     "path": "emojis/animated/fren_hop.gif",
     "frames": 6,
-    "bytes": 16899
+    "bytes": 194525
   },
   "fren_sit": {
     "type": "static",

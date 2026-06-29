@@ -1,0 +1,84 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "fren_bot_animated_pack",
+      "name": "Fren Bot Animated",
+      "publisher": "Lakshay-13",
+      "tray_image_file": "tray_fren_bot.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "lakshaychawla13@gmail.com",
+      "publisher_website": "https://github.com/Lakshay-13/fren-bot",
+      "privacy_policy_website": "https://github.com/Lakshay-13/fren-bot",
+      "license_agreement_website": "https://github.com/Lakshay-13/fren-bot",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "fren_idle.webp",
+          "emojis": [
+            "\ud83d\udc31",
+            "\ud83d\udc9c"
+          ]
+        },
+        {
+          "image_file": "fren_run.webp",
+          "emojis": [
+            "\ud83d\udc31",
+            "\ud83d\udc9c"
+          ]
+        },
+        {
+          "image_file": "fren_wave.webp",
+          "emojis": [
+            "\ud83d\udc31",
+            "\ud83d\udc9c"
+          ]
+        },
+        {
+          "image_file": "fren_jump.webp",
+          "emojis": [
+            "\ud83d\udc31",
+            "\ud83d\udc9c"
+          ]
+        },
+        {
+          "image_file": "fren_wait.webp",
+          "emojis": [
+            "\ud83d\udc31",
+            "\ud83d\udc9c"
+          ]
+        },
+        {
+          "image_file": "fren_review.webp",
+          "emojis": [
+            "\ud83d\udc31",
+            "\ud83d\udc9c"
+          ]
+        },
+        {
+          "image_file": "fren_sad.webp",
+          "emojis": [
+            "\ud83d\udc31",
+            "\ud83d\udc9c"
+          ]
+        },
+        {
+          "image_file": "fren_tailwag.webp",
+          "emojis": [
+            "\ud83d\udc31",
+            "\ud83d\udc9c"
+          ]
+        },
+        {
+          "image_file": "fren_hop.webp",
+          "emojis": [
+            "\ud83d\udc31",
+            "\ud83d\udc9c"
+          ]
+        }
+      ]
+    }
+  ]
+}
