@@ -45,13 +45,13 @@
     "type": "animated",
     "path": "emojis/animated/fren_tailwag.gif",
     "frames": 6,
-    "bytes": 218409
+    "bytes": 75486
   },
   "fren_hop": {
     "type": "animated",
     "path": "emojis/animated/fren_hop.gif",
     "frames": 6,
-    "bytes": 194525
+    "bytes": 68276
   },
   "fren_sit": {
     "type": "static",
