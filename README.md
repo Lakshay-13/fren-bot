@@ -1,6 +1,4 @@
-# Fren Bot
-
-Cute Fren-inspired Codex pet with transparent Discord emojis, a WhatsApp-ready animated sticker pack, and 4K wallpapers for desktop and phone.
+![Fren Bot](readme.png)
 
 ## Codex Pet
 
