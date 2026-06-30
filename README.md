@@ -1,7 +1,5 @@
 # Fren Bot
 
-![Fren Bot Wallpaper](wallpapers/desktop/fren-clouds-desktop-4k.png)
-
 Cute Fren-inspired Codex pet with transparent Discord emojis, a WhatsApp-ready animated sticker pack, and 4K wallpapers for desktop and phone.
 
 ## Codex Pet
@@ -64,24 +62,4 @@ Animated sticker pack files are in `whatsapp-pack/android-assets/`.
 
 ## Wallpapers
 
-Desktop:
-
-- `wallpapers/desktop/fren-clouds-desktop-4k.png`
-- `wallpapers/desktop/fren-midnight-desk-desktop-4k.png`
-- `wallpapers/desktop/fren-sprint-desktop-4k.png`
-
-Phone:
-
-- `wallpapers/phone/fren-clouds-phone-4k.png`
-- `wallpapers/phone/fren-midnight-phone-4k.png`
-- `wallpapers/phone/fren-sprint-phone-4k.png`
-
-![Clouds Desktop](wallpapers/desktop/fren-clouds-desktop-4k.png)
-![Midnight Desk](wallpapers/desktop/fren-midnight-desk-desktop-4k.png)
-![Sprint Desktop](wallpapers/desktop/fren-sprint-desktop-4k.png)
-
-<p>
-  <img src="wallpapers/phone/fren-clouds-phone-4k.png" width="250" alt="fren clouds phone wallpaper">
-  <img src="wallpapers/phone/fren-midnight-phone-4k.png" width="250" alt="fren midnight phone wallpaper">
-  <img src="wallpapers/phone/fren-sprint-phone-4k.png" width="250" alt="fren sprint phone wallpaper">
-</p>
+Includes 3 desktop 4K wallpapers and 3 phone 4K wallpapers in `wallpapers/`.
